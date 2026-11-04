@@ -5,5 +5,52 @@ body{
 #card{
     width: 70%;
     margin: 0 auto;
-    background-color: rgb(73, 39, 9);
+    background-color: rgb(118, 76, 39);
+    text-align: center;
+}
+
+h1{
+    color: rgb(250, 235, 215);
+    font-family: "Arial Rounded MT Bold", "Comic Sans MS", sans-serif;;
+}
+#card2{
+    display: flex;
+    flex-direction: column;
+    color: rgb(250, 235, 215);
+    font-family: "Arial Rounded MT Bold", "Comic Sans MS", sans-serif;;
+}
+#botao{
+    display: flex;
+    flex-direction: column;
+
+}
+input{
+    border-radius: 15px;
+}
+#pix{
+    color: rgb(0, 0, 0);
+    background-color: rgb(156, 217, 95);
+    font-family: "Arial Rounded MT Bold", "Comic Sans MS", sans-serif;;
+}
+#dinheiro{
+    color: rgb(0, 0, 0);
+    background-color: rgb(92, 92, 221);
+    font-family: "Arial Rounded MT Bold", "Comic Sans MS", sans-serif;;
+}
+#cartao{
+    color: rgb(0, 0, 0);
+    background-color: rgb(202, 42, 42);
+    font-family: "Arial Rounded MT Bold", "Comic Sans MS", sans-serif;;
+}
+#parcelado{
+    color: rgb(0, 0, 0);
+    background-color: rgb(221, 216, 60);
+    font-family: "Arial Rounded MT Bold", "Comic Sans MS", sans-serif;
+}
+p{
+    color: rgb(250, 235, 215);
+}
+h3{
+    color: rgb(250, 235, 215);
+    font-family: "Arial Rounded MT Bold", "Comic Sans MS", sans-serif;;
 }
