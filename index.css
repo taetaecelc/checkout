@@ -4,7 +4,7 @@ body{
 
 #card{
     width: 70%;
-    margin: 0 auto;
+    margin: 120px auto;
     background-color: rgb(118, 76, 39);
     text-align: center;
 }
@@ -49,15 +49,9 @@ input{
 }
 p{
     color: rgb(250, 235, 215);
-    font-family: "Arial Rounded MT Bold", "Comic Sans MS", sans-serif;;
+     font-family: "Arial Rounded MT Bold", "Comic Sans MS", sans-serif;
 }
 h3{
     color: rgb(250, 235, 215);
     font-family: "Arial Rounded MT Bold", "Comic Sans MS", sans-serif;;
-}
-.container{
- display: flex;
- flex-direction: column;
- width: 350px;
- height: 600px;
 }
