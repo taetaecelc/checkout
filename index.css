@@ -3,7 +3,7 @@ body{
 }
 
 #card{
-    width: 70%;
+    width: 80%;
     margin: 120px auto;
     background-color: rgb(118, 76, 39);
     text-align: center;
@@ -21,11 +21,13 @@ h1{
 }
 #botao{
     display: flex;
-    flex-direction: column;
-
+    flex-direction: row;
+    justify-content: space-around;
+    font-weight: bold;
 }
 input{
     border-radius: 15px;
+    padding: 20px;
 }
 #pix{
     color: rgb(0, 0, 0);
